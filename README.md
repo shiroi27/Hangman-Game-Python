@@ -38,7 +38,7 @@ This Python project features interactive guessing, score tracking, dynamic hints
    git clone https://github.com/shiroi27/Hangman-Game-Python.git
    ```
    
-2.	Run the game
+2. Run the game
    ```bash
    python Hangman_game.py
    ```
