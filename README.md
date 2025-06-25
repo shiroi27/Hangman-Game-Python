@@ -44,7 +44,7 @@ This Python project features interactive guessing, score tracking, dynamic hints
    ```
 
 
-✅ That’s it! No extra libraries required — it runs out of the box with Python!
+✅ That’s it! No extra libraries required — it runs out of the box with Python !
 
 ⸻
 
